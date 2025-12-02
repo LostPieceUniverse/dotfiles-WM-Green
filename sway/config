@@ -22,7 +22,7 @@ set $menu wofi --show drun
 ### ---------- Output configuration ----------
 #
 # Wallpaper
-output * bg ~/.config/sway/Wallpaper.jpg fill
+output * bg ~/.config/sway/WallpaperGreen.jpg fill
 #
 # Example configuration:
 #
@@ -34,8 +34,8 @@ output * bg ~/.config/sway/Wallpaper.jpg fill
 #
 # Locks screen after 15 minutes.
 exec swayidle -w \
-         timeout 900 'swaylock -f -i ~/.config/sway/Wallpaper.jpg --indicator-radius 100' \
-         before-sleep 'swaylock -f -i ~/.config/sway/Wallpaper.jpg --indicator-radius 100'
+         timeout 900 'swaylock -f -i ~/.config/sway/WallpaperGreen.jpg --indicator-radius 100' \
+         before-sleep 'swaylock -f -i ~/.config/sway/WallpaperGreen.jpg --indicator-radius 100'
 
 ### ---------- Input configuration ----------
 #
