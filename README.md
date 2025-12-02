@@ -17,7 +17,7 @@ This repository includes configuration files for:
 Clone this repository:
 
 ```bash
-git clone https://github.com/LostPieceUniverse/dotfiles.git
+git clone https://github.com/LostPieceUniverse/dotfiles-WM-Green.git
 cd dotfiles
 ```
 
@@ -26,9 +26,9 @@ You can either copy the configuration files or create symlinks. Symlinks are rec
 ### Option 1: Using Symlinks
 
 ```bash
-ln -sf ~/dotfiles/sway ~/.config/sway
-ln -sf ~/dotfiles/waybar ~/.config/waybar
-ln -sf ~/dotfiles/wofi ~/.config/wofi
+ln -sf "$PWD/sway" ~/.config/sway
+ln -sf "$PWD/waybar" ~/.config/waybar
+ln -sf "$PWD/wofi" ~/.config/wofi
 ```
 
 ### Option 2: Copying Files
