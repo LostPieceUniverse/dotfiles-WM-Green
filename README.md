@@ -18,7 +18,7 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/LostPieceUniverse/dotfiles-WM-Green.git
-cd dotfiles
+cd dotfiles-WM-Green/
 ```
 
 You can either copy the configuration files or create symlinks. Symlinks are recommended as they allow you to keep your configurations in sync with this repository.
