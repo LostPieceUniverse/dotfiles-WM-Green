@@ -1,6 +1,6 @@
 # Welcome to my Froggo setup :frog:
 
-My personal configuration files for various applications and tools on EndeavorOS.
+My personal configuration files for my Windowmanager on EndeavorOS.
 
 ![Desktop Setup](./Image.png)
 
